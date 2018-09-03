@@ -1,0 +1,34 @@
+body{
+	margin:0;
+}
+.Navbar{
+	height: 75px;
+	background: royalblue;
+}
+.Header-main{
+	height: 400px;
+	background: lightskyblue;
+}
+.Main-section{
+	background-color: gray;
+  	margin: 75px 100px;
+}
+.Footer{
+	height: 100px;
+	background: black;
+}
+p {
+  background-color: khaki;
+  height: 200px;
+  margin-bottom: 75px;
+}
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  height: 200px;
+}
+div.row {
+  background-color: tomato;
+  border: 2px solid black;
+  width: calc(50% - 10px);
+}
